@@ -1,0 +1,9 @@
+input{
+    width:100px;
+    height:200px;
+    display:block;
+}
+div{
+    width:100px;
+    display:inline-block;
+}
