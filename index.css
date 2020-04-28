@@ -1,7 +1,9 @@
 input{
     width:100px;
     height:200px;
-    display:block;
+    display:inline-block;
+    color:grey;
+
 }
 div{
     width:100px;
